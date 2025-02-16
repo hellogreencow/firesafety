@@ -32,6 +32,59 @@ A sophisticated chat bot application designed for fire safety analysis, capable 
 
 ## Installation
 
+### For Beginners (Step-by-Step Guide)
+
+#### Step 1: Install Required Software
+1. Install Node.js:
+   - Go to [nodejs.org](https://nodejs.org)
+   - Download and install the "LTS" (Long Term Support) version
+   - Follow the installation wizard, accepting default settings
+
+2. Install Git:
+   - Go to [git-scm.com](https://git-scm.com/downloads)
+   - Download and install Git for your operating system
+   - Follow the installation wizard, accepting default settings
+
+#### Step 2: Open Terminal/Command Prompt
+- **On Windows**:
+  1. Press `Windows + R` on your keyboard
+  2. Type `cmd` and press Enter
+  
+- **On Mac**:
+  1. Press `Command + Space` to open Spotlight
+  2. Type `terminal` and press Enter
+  
+- **On Linux**:
+  1. Press `Ctrl + Alt + T`
+
+#### Step 3: Clone and Set Up the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hellogreencow/firesafety.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd firesafety
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+#### Step 4: Start the Application
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+2. Open your web browser and go to:
+   ```
+   http://localhost:5555
+   ```
+
+### For Experienced Users
 1. Clone the repository:
    ```bash
    git clone https://github.com/hellogreencow/firesafety.git
