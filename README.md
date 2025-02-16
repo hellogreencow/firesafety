@@ -32,7 +32,12 @@ A sophisticated chat bot application designed for fire safety analysis, capable 
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hellogreencow/firesafety.git
+   cd firesafety
+   ```
+
 2. Install dependencies:
    ```bash
    npm install
